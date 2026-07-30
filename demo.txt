@@ -1,1 +1,1 @@
-hello from main, conflict.
+hello from conflict-demo.
